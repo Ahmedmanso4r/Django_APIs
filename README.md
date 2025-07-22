@@ -1,4 +1,4 @@
-Django_APIs
+# Django_APIs 🚀
 This repository contains a collection of Django-based API projects, showcasing various implementations of RESTful APIs using Django and Django REST Framework. Below is an overview of the repository, its structure, and how to set it up.
 Table of Contents
 

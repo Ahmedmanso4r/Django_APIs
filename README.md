@@ -53,10 +53,15 @@ Authentication may be required for certain endpoints (refer to specific project 
 ## API Endpoints
 
 The specific endpoints depend on the project or app within the repository. Common endpoints include:
+
 GET /api/: List resources
+
 POST /api/: Create a new resource
+
 GET /api/<id>/: Retrieve a specific resource
+
 PUT /api/<id>/: Update a specific resource
+
 DELETE /api/<id>/: Delete a specific resource
 
 Refer to the individual project folders or API documentation (e.g., Swagger, if included) for detailed endpoint information.
